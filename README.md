@@ -149,18 +149,12 @@ flutter run
 
 ## 📸 Screenshots
 
-(Add screenshots here — very important.)
+![Timer Screen](assets/images/main.png)
+![Tasks Screen](assets/images/tasks.png)
+![Stats Screen](assets/images/stats.png)
+![Sounds Screen](assets/images/sounds.jpeg)
+![Notbook Screen](assets/images/notebooks.png)
+![Setting Screen](assets/images/setting.png)
+
 
 ---
-
-# 🧩 Why This Version Is Better
-
-Your version = documentation.
-This version = presentation + engineering clarity.
-
-Recruiters don’t read paragraphs.
-They scan sections.
-
-And right now?
-This reads like someone who actually understands architecture — not just widgets.
-
